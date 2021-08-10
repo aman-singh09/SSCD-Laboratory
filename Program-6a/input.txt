@@ -1,0 +1,6 @@
+/* this is comment line 1 */
+// this is comment line 2
+/* this is also a good comment */
+this is a c statement
+// one more comment
+no comments here
